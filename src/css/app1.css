@@ -1,0 +1,15 @@
+#app1 {
+    padding: 10px;
+}
+
+#app1 .output {
+    font-weight: bold;
+}
+
+#app1 .actions button {
+    margin: 10px;
+    padding: 4px 10px;
+    outline: none;
+    border: none;
+    border-radius: 4px;
+}
